@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Magehit_Bestsellerproducts",
+    "name": "openmage-module-fostering\/magehit_bestsellerproducts",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Best Seller Products version 1.0.0",
     "authors": [
